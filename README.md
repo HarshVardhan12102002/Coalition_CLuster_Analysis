@@ -71,15 +71,15 @@ We plan to extend this project in the following directions:
 
 1. Clone the repository:
    \
-   git clone https://github.com/HarshVardhan12102002/Coalition_CLuster_Analysis.git
+   bash # git clone https://github.com/HarshVardhan12102002/Coalition_CLuster_Analysis.git
 
 2. Install dependencies (if any):
    \
-   pip install -r requirements.txt
+   bash # pip install -r requirements.txt
 
 3. Run the simulation:
    \
-   python coalition_simulation.py
+   bash # python coalition_simulation.py
 
 ## License
 
