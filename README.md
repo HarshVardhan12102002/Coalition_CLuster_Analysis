@@ -79,7 +79,7 @@ We plan to extend this project in the following directions:
 
 3. Run the simulation:
    ```bash
-   bash # python coalition_simulation.py
+   python coalition_simulation.py
 
 ## License
 
