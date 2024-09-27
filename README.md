@@ -71,7 +71,7 @@ We plan to extend this project in the following directions:
 
 1. Clone the repository:
    \
-   git clone https://github.com/yourusername/agricultural-cooperative-coalition.git
+   git clone https://github.com/HarshVardhan12102002/Coalition_CLuster_Analysis.git
 
 2. Install dependencies (if any):
    \
